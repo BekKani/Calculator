@@ -19,6 +19,7 @@ public class WeightCalculatorOnTheMars {
             char marsWeightChar = (char) marsWeightInt;
             System.out.println("Mars weight (char): " + marsWeightChar);
 
+
             /* performing some math operation */
             int modifiedMarsWeightInt = marsWeightChar + 70;
             System.out.println("Modified Mars weight (int): " + modifiedMarsWeightInt);
